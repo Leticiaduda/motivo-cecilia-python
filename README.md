@@ -15,7 +15,6 @@ unindo arte e código, porque até no terminal há espaço para poesia.
 
 # 🧠 Código
 
-# python
 # Motivo - Cecília Meireles
 
 def mostrar_poema():
@@ -37,12 +36,6 @@ e que o tempo é breve para amar"""
     print(poema)
 
 mostrar_poema()
-
-    print(f"\n{titulo.upper()}")
-    print(f"— {autor}\n")
-    print(poema)
-
-mostrar_poema() 
 
 # resultado
 
